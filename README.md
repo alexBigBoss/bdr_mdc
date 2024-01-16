@@ -2,10 +2,9 @@
 
 Repositorio para la revisión de actividades en clase.
 
-## Links de clases
+## Tareas
+- [Tarea 1](./Clase%201/README.md)
 
-Clases:
+
+## Herramientas de clase:
 - [DBMS](./DBMS/README.md)
-- [Clase 1](./Clase%201/README.md)
-
-
