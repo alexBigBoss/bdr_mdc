@@ -125,6 +125,10 @@ El segundo archivo, genome-tags.csvproporciona las descripciones de las etiqueta
 
 Los valores tagId se generan cuando se exporta el conjunto de datos, por lo que pueden variar de una versión a otra de los conjuntos de datos de MovieLens.
 
-## Estructura de datos no normalizada
+## Estructura de datos
 
-![No estructurado](./no_estructurado.png)
+![No estructurado](./estructura_datos.png)
+
+## Citas
+
+Jesse Vig, Shilad Sen, and John Riedl. 2012. The Tag Genome: Encoding Community Knowledge to Support Novel Interaction. ACM Trans. Interact. Intell. Syst. 2, 3: 13:1–13:44. https://doi.org/10.1145/2362394.2362395
