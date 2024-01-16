@@ -54,9 +54,9 @@ Las marcas de tiempo representan segundos desde la medianoche, hora universal co
 
 **Peliculas (Movies)**
 
-En el conjunto de datos solo se incluyen películas con al menos una clasificación o etiqueta. Estos identificadores de películas son consistentes con los utilizados en el sitio web de MovieLens (por ejemplo, el identificador 1corresponde a la URL https://movielens.org/movies/1 ). 
+En el conjunto de datos solo se incluyen películas con al menos una clasificación o etiqueta. Estos identificadores de películas son consistentes con los utilizados en el sitio web de MovieLens (por ejemplo, el identificador 1 corresponde a la URL https://movielens.org/movies/1 ). 
 
-Los identificadores de películas son consistentes entre ratings.csv, tags.csv, movies.csvy links.csv (es decir, el mismo identificador se refiere a la misma película en estos cuatro archivos de datos).
+Los identificadores de películas son consistentes entre ratings.csv, tags.csv, movies.csv y links.csv (es decir, el mismo identificador se refiere a la misma película en estos cuatro archivos de datos).
 
 La información de la película está contenida en el archivo movies.csv. Cada línea de este archivo después de la fila del encabezado representa una película y tiene el siguiente formato:
 
@@ -118,7 +118,7 @@ El genoma se divide en dos archivos. El archivo genome-scores.csv contiene datos
 - tagId
 - relevance
 
-El segundo archivo, genome-tags.csvproporciona las descripciones de las etiquetas para los ID de etiqueta en el archivo del genoma, en el siguiente formato:
+El segundo archivo, genome-tags.csv proporciona las descripciones de las etiquetas para los ID de etiqueta en el archivo del genoma, en el siguiente formato:
 
 - tagId
 - tag
