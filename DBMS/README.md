@@ -2,6 +2,8 @@
 
 A continuación se describe los pasos para desplegar el manejador de base de datos mediante docker-compose.
 
+**Nota**: El propósito solamente es para conocer detalles técnicos para desplegar el manejador y no tiene relación para alguna evaluación.
+
 ## Archivo de variables entorno
 
  1. **POSTGRES_USER**: 
