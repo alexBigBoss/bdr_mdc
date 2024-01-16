@@ -6,6 +6,8 @@ A continuación se describe los pasos para desplegar el manejador de base de dat
 
 ## Archivo de variables entorno
 
+Las configuraciones descritas a continuación se debe configurar un archivo de variables de entorno para guardar los valores sensibles y los mismos no se encuentren expuestos en los repositorios públicos.
+
  1. **POSTGRES_USER**: 
  - **Descripción:** Especifica el nombre de usuario que se utilizará para conectarse al servidor PostgreSQL.
  - **Uso típico:** Se utiliza durante la instalación y configuración de PostgreSQL para establecer el nombre de usuario principal.
@@ -20,4 +22,9 @@ A continuación se describe los pasos para desplegar el manejador de base de dat
 - **Uso típico:** Necesaria para iniciar sesión en la interfaz web de PgAdmin. Asegura la seguridad del acceso al administrador web.
 
 ## ¿Cómo correr?
-`docker-compose --env-file .env up -d`
+
+Abrir una terminal o consola y correr el siguiente comando:
+
+```sh
+docker-compose --env-file .env up -d
+```
