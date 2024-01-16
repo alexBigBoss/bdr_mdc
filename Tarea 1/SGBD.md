@@ -18,5 +18,9 @@ Se selecciono el sistema gestor de base de datos de postgres ya que cuenta con l
 - Tiene integración con multiples lenguajes de programación.
 - Puede manejar grandes cantidades de datos y es ideal para proyectos de ciencia de datos.
 
+## Fuentes
+- https://kinsta.com/es/blog/postgresql-vs-mysql/
+- https://learnsql.es/blog/las-bases-de-datos-mas-populares-en-2023/
+
 
 ![postgres](./postgres.png)
