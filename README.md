@@ -3,7 +3,7 @@
 Repositorio para la revisión de actividades en clase.
 
 ## Tareas
-- [Tarea 1](./Clase%201/README.md)
+- [Tarea 1](./Tarea%201/README.md)
 
 
 ## Herramientas de clase:
