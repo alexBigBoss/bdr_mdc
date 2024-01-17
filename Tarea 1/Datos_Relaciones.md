@@ -27,7 +27,7 @@ Los usuarios de MovieLens fueron seleccionados al azar para su inclusión. Sus i
 Todas las calificaciones están contenidas en el archivo ratings.csv. Cada línea de este archivo después de la fila del encabezado representa una calificación de una película por parte de un usuario y tiene el siguiente formato:
 
 - userId
-- movieI
+- movieId
 - rating
 - timestamp
 

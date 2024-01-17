@@ -18,9 +18,9 @@ Se selecciono el sistema gestor de base de datos de postgres ya que cuenta con l
 - Tiene integración con multiples lenguajes de programación.
 - Puede manejar grandes cantidades de datos y es ideal para proyectos de ciencia de datos.
 
-## Fuentes
-- https://kinsta.com/es/blog/postgresql-vs-mysql/
-- https://learnsql.es/blog/las-bases-de-datos-mas-populares-en-2023/
+## Citas
+- Ostrowska. (2023, 12 mayo). Las bases de datos más populares en 2023 [Entrada de blog]. Recuperado el 16 de enero de 2024, de https://learnsql.es/blog/las-bases-de-datos-mas-populares-en-2023/
+- Phaujdar. (2023, 12 septiembre). PostgreSQL vs MySQL: Descubre sus 12 diferencias críticas [Entrada de blog]. Recuperado el 16 de enero de 2024, de https://kinsta.com/es/blog/postgresql-vs-mysql/
 
 
 ![postgres](./postgres.png)
