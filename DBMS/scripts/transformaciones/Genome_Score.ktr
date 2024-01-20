@@ -506,7 +506,7 @@
     </partitioning>
     <connection>movie_lens</connection>
     <schema>public</schema>
-    <table>gnome_score_tmp</table>
+    <table>gnome_score</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
