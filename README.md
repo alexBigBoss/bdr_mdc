@@ -7,4 +7,4 @@ Repositorio para la revisión de actividades en clase.
 
 
 ## Herramientas de clase:
-- [DBMS](./Dev_Tools/DBMS/README.md)
+- [Dev Tools](./Dev_Tools/README.md)
