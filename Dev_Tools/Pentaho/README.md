@@ -4,6 +4,8 @@
 
 Pentaho Data Integration (PDI): Anteriormente conocido como Kettle, PDI es una herramienta de integración de datos que facilita la extracción, transformación y carga (ETL) de datos desde diversas fuentes hacia un almacén de datos o un sistema de análisis.
 
+![pdi](pdi.png)
+
 ## Descarga de recursos
 
 Puedes descargar pentaho PDI desde el sitio oficial: [Pentaho Community Edition](https://www.hitachivantara.com/es-latam/products/pentaho-platform/data-integration-analytics/pentaho-community-edition.html)
