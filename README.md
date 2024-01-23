@@ -4,6 +4,7 @@ Repositorio para la revisión de actividades en clase.
 
 ## Tareas
 - [Tarea 1](./Tarea%201/README.md)
+- [Tarea 2](./Tarea%202/README.md)
 
 
 ## Herramientas de clase:

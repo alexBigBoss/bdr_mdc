@@ -37,3 +37,5 @@ services:
       PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
     ports:
       - "5050:80"
+    depends_on:
+      - postgres  # Agregado para indicar la dependencia de pgAdmin a PostgreSQL
