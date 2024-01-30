@@ -7,4 +7,10 @@
 
 ## Desarrollo de la actividad
 
+Diagrama relacional original de la base de datos de movie lens
+
 ![Tarea_2](./Tarea%202.png)
+
+Diagrama relacional normalizada de la base de datos de movie lens
+
+![Tarea_2_N](./Tarea%202%20-%20Normalizada.png)
