@@ -19,3 +19,10 @@ SELECT movie.title, rating.userid, rating.rating, rating.timestamp
  INNER JOIN rating ON rating.movieid = movie.movieid
  WHERE movie.movieid = 1
  LIMIT 1000 
+
+-- Consultar todas las peliculas con el tag 'artificial intelligence'
+SELECT movie.title, tag.userid, tag.tag, tag.timestamp
+  FROM movie
+ INNER JOIN tag ON tag.movieid = movie.movieid
+ WHERE tag.tag = 'artificial intelligence'
+ LIMIT 100 
