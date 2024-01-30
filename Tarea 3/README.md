@@ -19,7 +19,7 @@
 ```
 π: movie.title, movie.genres, genre.genre
 σ: movie.movieid = 1
-(movie x movie_genre_association x genre)
+(movie x movie_genre x genre)
 ```
  
 2. Consulta de todas las pelicula que contengan el por género igual a 3
@@ -27,7 +27,7 @@
 ```
 π: movie.title, genre.genre
 σ: genre.id = 3
-(movie x movie_genre_association x genre)
+(movie x movie_genre x genre)
 ```
  
 3. Consultar todas las calificaciones (ratings) de la pelicula con id 3
