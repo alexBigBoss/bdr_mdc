@@ -70,3 +70,7 @@ SELECT rating.rating, COUNT(1) AS cantidad
 ```
 
 ![Imagen](assets/E4.png)
+
+### Reporte
+
+No se encontraron problemas para realizar las consultas solicitadas.
