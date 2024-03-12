@@ -10,6 +10,7 @@ Repositorio para la revisión de actividades en clase.
 - [Tarea 6](./Tarea%206/README.md)
 - [Tarea 7](./Tarea%207/README.md)
 - [Tarea 8](./Tarea%208/README.md)
+- [Tarea 9](./Tarea%209/README.md)
 
 ## Herramientas de clase:
 - [Dev Tools](./Dev_Tools/README.md)
